@@ -239,11 +239,9 @@ llm_crossword/
 │   ├── medium.json               # Medium puzzle (7x7, 5 clues)
 │   ├── hard.json                 # Hard puzzle (13x13, 23 clues)
 │   └── cryptic.json              # Cryptic puzzle (15x15, 30 clues)
-├── cli/                          # Command-line interface utilities
 ├── main.py                       # Main entry point for single puzzle solving
 ├── run_all_puzzles.py            # Script to benchmark all puzzles
 ├── requirements.txt              # Python dependencies
-├── .env.example                  # Environment variable template
 └── README.md                     # This documentation
 ```
 
